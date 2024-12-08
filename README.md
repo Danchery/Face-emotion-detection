@@ -10,6 +10,7 @@ The project combines face detection and emotion classification in real-time usin
 ---
 
 ## Results
+![test_2](https://github.com/user-attachments/assets/3366188a-414d-494f-8a3f-2e833bc7bcfb)
 
 
 ---

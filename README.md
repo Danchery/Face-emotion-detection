@@ -10,7 +10,7 @@ The project combines face detection and emotion classification in real-time usin
 ---
 
 ## Results
-[Watch the demonstration video](results/test.mp4)
+[Watch the demonstration video](results/gif.mp4)
 
 ---
 
